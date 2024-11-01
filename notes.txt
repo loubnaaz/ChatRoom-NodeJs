@@ -1,2 +1,1 @@
-1- exclamation mark + tab to start the html structure in html fil
-2- we put in package.json dev=nodemon so to start this app we should type in terminal : npm run dev 
+1- To start this app type: npm run dev 

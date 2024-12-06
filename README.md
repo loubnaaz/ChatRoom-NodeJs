@@ -1,30 +1,38 @@
-Description
+## Description:
 Cette application de chat en temps réel permet à plusieurs utilisateurs de communiquer instantanément via une interface web. Chaque utilisateur peut se connecter en entrant un pseudonyme, envoyer des messages, et voir les messages des autres utilisateurs en temps réel.
 
-Fonctionnalités
-Connexion d'utilisateurs via une URL locale.
-Messagerie instantanée entre plusieurs utilisateurs.
-Affichage des messages en temps réel dans toutes les fenêtres ouvertes.
+## Vidéo démonstrative
 
-Technologies utilisées
-Node.js
-Express.js (pour gérer le serveur web)
-Socket.io (pour les communications en temps réel via WebSocket)
+https://github.com/user-attachments/assets/8160e39d-6534-421f-ab34-4eb764d021f6
 
-Comment exécuter le projet:
+## Fonctionnalités:
+* Connexion d'utilisateurs via une URL locale.
+* Messagerie instantanée entre plusieurs utilisateurs.
+* Affichage des messages en temps réel dans toutes les fenêtres ouvertes.
 
-Step 1: Clone the repo
+## Technologies utilisées:
+* Node.js
+* Express.js (pour gérer le serveur web)
+* Socket.io (pour les communications en temps réel via WebSocket)
 
-git clone https://github.com/trulymittal/chat-socket.io.git
+## Comment exécuter le projet:
 
-Step 2: cd into the cloned repo and run:
+* Step 1: Clone the repo
 
-npm install
+```git clone https://github.com/loubnaaz/ChatRoom-NodeJs```
 
-Step 3: Start the chat app (development mode)
+* Step 2: cd into the cloned repo and run:
 
-npm run dev
+```npm install```
 
-Step 4: Start the chat app
+* Step 3: Start the chat app (development mode)
 
-npm start
+```npm run dev```
+
+* Step 4: Start the chat app
+
+```npm start```
+
+
+
+
